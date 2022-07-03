@@ -27,7 +27,7 @@
   <img  alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/linkedin.svg" />
             </a> 
   &nbsp;&nbsp;
-            <a href="">
+            <a href="https://www.facebook.com/profile.php?id=100072396362543">
   <img  alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/facebook.svg" />
             </a>
   &nbsp;&nbsp;
@@ -35,11 +35,11 @@
   <img  alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/instagram.svg" />
             </a>
   &nbsp;&nbsp;
-            <a href="">
+            <a href="https://twitter.com/MadhusankaSilva">
   <img  alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/twitter.svg" />
             </a> 
   &nbsp;&nbsp;
-            <a href="">
+            <a href="https://www.instagram.com/__chathu98__/">
   <img  alt="Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/medium.svg" />
             </a> 
 </p>
