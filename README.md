@@ -31,7 +31,7 @@
   <img  alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/facebook.svg" />
             </a>
   &nbsp;&nbsp;
-            <a href="#">
+            <a href="https://www.instagram.com/__chathu98__/">
   <img  alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/instagram.svg" />
             </a>
   &nbsp;&nbsp;
@@ -39,7 +39,7 @@
   <img  alt="Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/twitter.svg" />
             </a> 
   &nbsp;&nbsp;
-            <a href="https://www.instagram.com/__chathu98__/">
+            <a href="https://medium.com/@it20263058">
   <img  alt="Medium" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/medium.svg" />
             </a> 
 </p>
