@@ -23,7 +23,7 @@
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="">
+            <a href="https://www.linkedin.com/in/chathura-madhusanka/">
   <img  alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/linkedin.svg" />
             </a> 
   &nbsp;&nbsp;
