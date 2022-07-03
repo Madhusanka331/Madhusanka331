@@ -54,7 +54,7 @@
 </details>
 <details>
 <summary>📊 My Most Used Languages</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusanka331Madhusanka331&layout=compact&theme=light" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusanka331&layout=compact&theme=light" />
 </details>
 
 <hr>
